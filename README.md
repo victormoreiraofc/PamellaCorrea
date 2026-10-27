@@ -18,7 +18,7 @@
 </div>
 
 
-<img src="./giphy_sem_circulo-nobg.gif" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="./programadora.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
 <br />
 

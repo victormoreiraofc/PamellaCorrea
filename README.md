@@ -18,7 +18,7 @@
 </div>
 
 
-<img src="./Garota.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="./garota_estrelas_sem_fundo.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
 <br />
 
